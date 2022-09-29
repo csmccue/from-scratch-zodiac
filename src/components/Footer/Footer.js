@@ -1,5 +1,5 @@
 import React from 'react';
 import './Footer.css';
 export default function Footer() {
-  return <footer>CONDADDY PRODUCTIONS</footer>;
+  return <footer>Copyright Alchemy Codelab 2022-2023</footer>;
 }
