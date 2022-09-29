@@ -5,12 +5,12 @@ export const zodiacs = [
     date: '20 Jan - 19 Feb',
   },
   {
-    name: 'Pisces',
+    name: 'pisces',
     sign: 'fish',
     date: '19 Feb - 21 Mar',
   },
   {
-    name: 'Aries',
+    name: 'aries',
     sign: 'ram',
     date: '21 Mar - 20 Apr',
   },
