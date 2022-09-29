@@ -1,0 +1,10 @@
+footer {
+  font-size: 3rem;
+  background-color: aquamarine;
+  position: sticky;
+  bottom: 0;
+  color:black;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
