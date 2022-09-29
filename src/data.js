@@ -1,6 +1,6 @@
 export const zodiacs = [
   {
-    name: 'Aquarius',
+    name: 'aquarius',
     sign: 'water',
     date: '20 Jan - 19 Feb',
   },
